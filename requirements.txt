@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+beautifulsoup4
+transformers
+tensorflow
+requests
+feedparser
+nltk
+python-dotenv
+
